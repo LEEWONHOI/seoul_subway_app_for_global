@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33297491297",
+    "project_id": "subway-app-chapter05",
+    "storage_bucket": "subway-app-chapter05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33297491297:android:9aa4179cb8b2a53ea15120",
+        "android_client_info": {
+          "package_name": "com.example.wonhoi_seoul_subway_info_app_for_global"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33297491297-a2ora6lqe54i8u2n7bktt0i5t5k59c33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVcqkhfBfxH6oL7X3Kq7wiNF7th1_lezM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33297491297-a2ora6lqe54i8u2n7bktt0i5t5k59c33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

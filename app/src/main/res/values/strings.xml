@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wonhoi_seoul_subway_info_app_for_global</string>
+
+    <string name="can_find_station_info">No subway information found.</string>
+    <string name="unknown_problem">An unknown problem has occurred.</string>
+
+</resources>
