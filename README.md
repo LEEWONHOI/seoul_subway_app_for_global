@@ -9,18 +9,21 @@
 ## 📖 상세 내용
 
 <div align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/06c3a4fe-5a33-485b-8641-276de435a7c7/Screenshot_1629180917.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T041346Z&X-Amz-Expires=86400&X-Amz-Signature=818a4789972dea6e7f51e7869d5dd8c318e5d1fa22a6bc6d8a1cc2f61b7b9635&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1629180917.png%22&x-id=GetObject" width="35%" >
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/818d2b0f-0509-470c-972e-cff086e33eb2/Screenshot_1629180937.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T041347Z&X-Amz-Expires=86400&X-Amz-Signature=4d030cf355488a0c0ce6855827ce3169f0668f93151a04d41e51f1a703b199bb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1629180937.png%22&x-id=GetObject" width="35%" >
+  <img src="https://user-images.githubusercontent.com/78194843/169431731-e80862d3-3c3f-4848-b36a-9db7acb5e1cf.png" width="35%" >
+  
+  <img src="https://user-images.githubusercontent.com/78194843/169431734-06499224-3c50-4bb1-bc58-e858c8014968.png" width="35%" >
 </div>
 
 <div align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a2dd9622-fbd2-4e68-b046-90fcc3cc8a3b/Screenshot_1629180940.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T041401Z&X-Amz-Expires=86400&X-Amz-Signature=4b8ed2ce8fbf0c750deafb0aa6c44b6b3a8a41016d7cbdd95c7027edc1f5ec48&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1629180940.png%22&x-id=GetObject" width="30%" >
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d8c7d6f8-a267-4b61-b114-3a6871985026/Screenshot_1629180951.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T041402Z&X-Amz-Expires=86400&X-Amz-Signature=146d82453291531fbb4aca0f005332da98e2d46a20a4db907d2fcaafaeef4296&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1629180951.png%22&x-id=GetObject" width="30%" >
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a1237524-cbe2-43f4-bf3c-852cb1f397fe/Screenshot_1629180965.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T041404Z&X-Amz-Expires=86400&X-Amz-Signature=0e823f08ffdef4209848134ad2f651e03525b5c598af291f368b7710a09a3256&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1629180965.png%22&x-id=GetObject" width="30%" >
+  <img src="https://user-images.githubusercontent.com/78194843/169431737-90f33390-7585-4a55-8c61-9d2419575d8b.png" width="30%" >
+  
+  <img src="https://user-images.githubusercontent.com/78194843/169431739-6aaae788-58fa-4088-8b72-d300aee23bbf.png" width="30%" >
+  
+  <img src="https://user-images.githubusercontent.com/78194843/169431743-580d19e0-e736-438a-9019-63dd6e9aa19b.png" width="30%" >
 </div>
 
 <div align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e9b9646d-6982-4225-be50-d62f4c2cc0c2/%EC%A7%80%ED%95%98%EC%B2%A0_%EC%95%B1_%EA%B8%80%EB%A1%9C%EB%B2%8C.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T041425Z&X-Amz-Expires=86400&X-Amz-Signature=dc497ebc7642fab62ba8e3abe390b563ea68265f09565914af35af3ba26d9bc3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EC%25A7%2580%25ED%2595%2598%25EC%25B2%25A0%2520%25EC%2595%25B1%2520%25EA%25B8%2580%25EB%25A1%259C%25EB%25B2%258C.gif%22&x-id=GetObject" width="35%" >
+  <img src="https://user-images.githubusercontent.com/78194843/169431746-00350551-80a4-48e4-9719-bcf8b8b3b5ba.gif" width="100%" >
 </div>
 
 <br/>
